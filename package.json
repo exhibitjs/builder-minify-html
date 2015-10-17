@@ -1,7 +1,7 @@
 {
   "name": "exhibit-builder-minify-html",
   "description": "Minifies HTML files using minimize",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Callum Locke",
   "babel": {
     "stage": 0,
